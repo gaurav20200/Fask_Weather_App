@@ -73,10 +73,6 @@ def delete_city( name ):
     db.session.commit()
 
     flash(f'Successfully deleted { city.name }!', 'success')
-<<<<<<< HEAD
     return redirect(url_for('index_get'))
-if __name__=='__main__':
+if __name__=="__main__":
     app.run()
-=======
-    return redirect(url_for('index_get'))
->>>>>>> 774b3ab513b59581fd0087db8c551277fdd22119
