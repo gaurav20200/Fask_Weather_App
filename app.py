@@ -74,3 +74,5 @@ def delete_city( name ):
 
     flash(f'Successfully deleted { city.name }!', 'success')
     return redirect(url_for('index_get'))
+if __name__=='__main__':
+    app.run()
