@@ -5,8 +5,8 @@ A simple web application to display the current weather in various cities, built
 ## Project Status
 This project is currently in development. Future updates wil include clickable tiles for time, news, etc.
 
-#### Example:   
-![Image description](https://github.com/jkaethee/Flask-Weather-App/blob/master/images/weather%20app.PNG)
+#### link :   
+https://flask-weather-app12.herokuapp.com/
 
 ## Installation and Setup Instructions
 
